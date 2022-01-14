@@ -11,4 +11,4 @@ File strucutres for each project will be located in the corresponding folder for
 Please use the built-in Github [issue reporting](https://github.com/justinlosh/automox/issues) system for issues. 
 
 ### Disclaimer
-I am quite the novice in regards to Powershell and Bash scripting and will attempt to provide a best effort in fixing issues as time permits. The purpose of this public repository is hopefully to provide ideas and resources for getting started with using Automox Worklets.
+I am quite the novice in regards to Powershell and Bash scripting and will attempt to provide a best effort in fixing issues as time permits. The purpose of this public repository is hopefully to provide ideas and resources for getting started with using Automox Worklets. **There is absolutely no warranty, please test and use at your own risk**.
